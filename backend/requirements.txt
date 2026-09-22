@@ -1,0 +1,15 @@
+# Database
+supabase
+python-dotenv
+
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# PDF extraction
+pdfplumber
+easyocr
+
+# LLM
+groq
