@@ -10,6 +10,9 @@ python-multipart
 # PDF extraction
 pdfplumber
 easyocr
+pdf2image
+python-dateutil
 
 # LLM
 groq
+
